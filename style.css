@@ -1,0 +1,24 @@
+﻿.body-container{
+	background-image: url(Background.jpg);
+	background-size: cover;
+}
+li{
+	display: inline;
+	padding: 8px;
+}
+
+.u{
+	text-align: center;
+}
+
+.a:hover {
+	background-color: #080;
+}
+.p{
+	padding: 250px;
+	text-align: center;
+}
+footer {
+  display: block;
+  background-color: #075;
+}
